@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-b8nasd.date-me.pro/sitemap.xml
